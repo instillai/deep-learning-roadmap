@@ -1,5 +1,3 @@
-.. image:: _img/mainpage/logo.gif
-
 .. image:: _img/mainpage/follow-twitter.gif
    :height: 100px
    :width: 200 px
@@ -31,6 +29,8 @@ Table of Contents
 .. contents::
   :local:
   :depth: 4
+
+.. image:: _img/mainpage/logo.gif
 
 ***************
 Introduction
