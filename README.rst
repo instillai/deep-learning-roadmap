@@ -7,7 +7,7 @@
    :target: https://twitter.com/osforscience
 
 ###################################################
-Deep Learning World
+Deep Learning - All You Need to Know
 ###################################################
 
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
