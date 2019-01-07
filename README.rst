@@ -14,10 +14,8 @@ Deep Learning - All You Need to Know
     :target: https://github.com/osforscience/deep-learning-all-you-need/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
     :target: https://github.com/ellerbrock/open-source-badge/
-.. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
-      :target: https://www.python.org/
 .. image:: https://img.shields.io/pypi/l/ansicolortags.svg
-      :target: https://github.com/astorfi/Deep-Learning-World/blob/master/LICENSE
+      :target: https://github.com/osforscience/deep-learning-all-you-need/blob/master/LICENSE
 .. image:: https://img.shields.io/twitter/follow/osforscience.svg?label=Follow&style=social
       :target: https://twitter.com/osforscience
 
