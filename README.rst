@@ -1,19 +1,27 @@
 .. image:: _img/mainpage/logo.gif
 
+.. image:: _img/mainpage/follow-twitter.gif
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
+   :target: https://twitter.com/osforscience
+
 ###################################################
 Deep Learning World
 ###################################################
 
 .. image:: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
-    :target: https://github.com/astorfi/Deep-Learning-World/pulls
+    :target: https://github.com/osforscience/deep-learning-all-you-need/pulls
 .. image:: https://badges.frapsoft.com/os/v2/open-source.png?v=103
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
       :target: https://www.python.org/
 .. image:: https://img.shields.io/pypi/l/ansicolortags.svg
       :target: https://github.com/astorfi/Deep-Learning-World/blob/master/LICENSE
-.. image:: https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg
-      :target: https://github.com/astorfi/Deep-Learning-World/graphs/contributors
+.. image:: https://img.shields.io/twitter/follow/osforscience.svg?label=Follow&style=social
+      :target: https://twitter.com/osforscience
 
 
 
