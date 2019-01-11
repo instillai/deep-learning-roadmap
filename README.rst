@@ -563,7 +563,7 @@ Speech Technology
   .. image:: _img/mainpage/star_4.png
 
 * **A novel scheme for speaker recognition using a phonetically-aware deep neural network** :
-  [`Paper <https://ieeexplore.ieee.org/abstract/document/6853887/>`_][`Code <>`_]
+  [`Paper <https://ieeexplore.ieee.org/abstract/document/6853887/>`_]
 
   .. image:: _img/mainpage/star_3.png
  
