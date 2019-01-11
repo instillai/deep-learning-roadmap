@@ -109,6 +109,7 @@ Convolutional Networks
 
 * **Deep convolutional neural networks for LVCSR** :
   [`Paper <https://ieeexplore.ieee.org/abstract/document/6639347/&hl=zh-CN&sa=T&oi=gsb&ct=res&cd=0&ei=KknXWYbGFMbFjwSsyICADQ&scisig=AAGBfm2F0Zlu0ciUwadzshNNm80IQQhuhA>`_]
+  
   .. image:: _img/mainpage/star_3.png
 
 * **Face recognition: a convolutional neural-network approach** :
@@ -257,7 +258,7 @@ Optimization
   .. image:: _img/mainpage/star_5.png
 
 * **Training Very Deep Networks** :
-  [`Paper <http://papers.nips.cc/paper/5850-training-very-deep-networks>`_][`Code <>`_]
+  [`Paper <http://papers.nips.cc/paper/5850-training-very-deep-networks>`_]
 
   .. image:: _img/mainpage/star_4.png
 
