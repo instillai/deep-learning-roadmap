@@ -392,7 +392,7 @@ Image Recognition
 * **3D Convolutional Neural Networks for Cross Audio-Visual Matching Recognition** :
   [`Paper <https://ieeexplore.ieee.org/document/8063416>`_][`Code <https://github.com/astorfi/lip-reading-deeplearning>`_]
 
-   .. image:: _img/mainpage/star_4.png
+  .. image:: _img/mainpage/star_4.png
 
 --------------------
 Object Recognition
@@ -570,7 +570,7 @@ Speech Technology
 * **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks** :
   [`Paper <https://arxiv.org/abs/1705.09422>`_][`Code <https://github.com/astorfi/3D-convolutional-speaker-recognition>`_]
 
-   .. image:: _img/mainpage/star_4.png
+  .. image:: _img/mainpage/star_4.png
 
 
 ************
