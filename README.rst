@@ -831,7 +831,7 @@ Blogs
 * **WILDML**:
   [`Link <http://www.wildml.com/about/>`_]
 
-* **Distill blog** It is more like a journal than a blog because it has a peer review process and only accepyed articles will be published on that.:
+* **Distill blog** It is more like a journal than a blog because it has a peer review process and only accepted articles will be published on that.:
   [`Link <https://distill.pub/>`_]
 
 * **BAIR** Berkeley Artificial Inteliigent Research:
