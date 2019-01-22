@@ -51,7 +51,7 @@ There are different motivations for this open source project.
 What's the point of this open source project?
 ------------------------------------------------------------
 
-There other similar repositories similar to this repository and are very
+There are other repositories similar to this repository that are very
 comprehensive and useful and to be honest they made me ponder if there is
 a necessity for this repository!
 
