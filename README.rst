@@ -16,8 +16,8 @@ Deep Learning - All You Need to Know
     :target: https://github.com/ellerbrock/open-source-badge/
 .. image:: https://img.shields.io/pypi/l/ansicolortags.svg
       :target: https://github.com/osforscience/deep-learning-all-you-need/blob/master/LICENSE
-.. image:: https://img.shields.io/twitter/follow/osforscience.svg?label=Follow&style=social
-      :target: https://twitter.com/osforscience
+.. image:: https://img.shields.io/twitter/follow/machinemindset.svg?label=Follow&style=social
+      :target: https://twitter.com/machinemindset
 
 
 
