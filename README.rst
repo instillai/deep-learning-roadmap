@@ -4,7 +4,7 @@
    :scale: 50 %
    :alt: alternate text
    :align: right
-   :target: https://twitter.com/osforscience
+   :target: https://twitter.com/machinemindset
 
 ###################################################
 Deep Learning - All You Need to Know
