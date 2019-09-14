@@ -30,7 +30,7 @@ Download Free Python Machine Learning Book
 .. raw:: html
 
  <a href="http://www.machinelearningmindset.com/deep-learning-roadmap/" target="_blank">
-  <img width="950" height="450" align="center" src="https://github.com/machinelearningmindset/deep-learning-roadmap/tree/master/_img/mainpage/deeplearningroadmapbook.png"/>
+  <img width="800" height="450" align="center" src="https://github.com/machinelearningmindset/deep-learning-roadmap/blob/master/_img/mainpage/deeplearningroadmapbook.png"/>
  </a>
 
 .. raw:: html
