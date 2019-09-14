@@ -19,24 +19,6 @@ Deep Learning - All You Need to Know
       :target: https://twitter.com/machinemindset
       
 
-================================================
-Download Free Python Machine Learning Book
-================================================
-
-.. raw:: html
-
-   <div align="center">
-
-.. raw:: html
-
- <a href="http://www.machinelearningmindset.com/deep-learning-roadmap/" target="_blank">
-  <img width="950" height="450" align="center" src="https://github.com/machinelearningmindset/deep-learning-roadmap/tree/master/_img/mainpage/deeplearningroadmapbook.png"/>
- </a>
-
-.. raw:: html
-
-   </div>
-
 
 
 ##################
