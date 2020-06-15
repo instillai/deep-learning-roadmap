@@ -932,7 +932,31 @@ Frameworks
 
 * **Deeplearning4j**:
   [`Link <https://deeplearning4j.org/>`_]
+  
+  
+************
+Youtube Channels
+************
 
+* **Sentdex**:
+  [`Link <https://www.youtube.com/user/sentdex/>`_]
+
+* **The Coding Train**:
+  [`Link <https://www.youtube.com/user/shiffman>`_]
+
+* **Crash Course Computer Science**:
+  [`Link <https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo>`_]
+
+* **3Blue1Brown**:
+  [`Link <https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw>`_]
+  
+* **Acedemind**:
+  [`Link <https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w>`_]
+
+* **Edureka**:
+  [`Link <https://www.youtube.com/user/edurekaIN>`_]  
+  
+  
 
 ************
 Contributing
