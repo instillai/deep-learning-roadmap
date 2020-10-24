@@ -1,10 +1,3 @@
-
-.. figure:: _img/mainpage/teaser.gif
-  :target: https://machinelearningmindset.com/blog/
-  
-.. figure:: _img/mainpage/subscribe.gif
-  :target: https://machinelearningmindset.com/subscription/
-
 ###################################################
 Deep Learning - All You Need to Know
 ###################################################
