@@ -841,9 +841,9 @@ Courses
 
 * **Course on Deep Learning for Visual Computing** by IITKGP:
   [`Link <https://www.youtube.com/playlist?list=PLuv3GM6-gsE1Biyakccxb3FAn4wBLyfWf>`_]
-
-
-
+  
+* **AI Expert Roadmap - Roadmap to becoming an Artificial Intelligence Expert** :
+  [`Link <https://github.com/AMAI-GmbH/AI-Expert-Roadmap>`_]
 
 ************
 Books
