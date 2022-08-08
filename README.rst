@@ -896,6 +896,9 @@ Blogs
 
 * **i am trask** A Machine Learning Craftsmanship Blog:
   [`Link <http://iamtrask.github.io>`_]
+  
+* **Explore Deep Learning** Discover curated list of popular &  new libraries, top authors, trending kits, discussions, tutorials & learning resources on kandi
+  [`Link <https://kandi.openweaver.com/explore/deep-learning>`_]
 
 
 ************
