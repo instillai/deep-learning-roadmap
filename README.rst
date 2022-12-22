@@ -871,6 +871,9 @@ Books
   
 * **Deep Learning with Python, Second Edition**:
   [`Link <https://www.manning.com/books/deep-learning-with-python-second-edition>`_]
+  
+* **Machine Learning Algorithms in Depth**:
+  [`Link <https://www.manning.com/books/machine-learning-algorithms-in-depth>`_]
 
 
 ************
